@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.4543776</identifier>
+  <creators>
+    <creator>
+      <creatorName>Gaur, Manas</creatorName>
+      <givenName>Manas</givenName>
+      <familyName>Gaur</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-5411-2230</nameIdentifier>
+      <affiliation>Artificial Intelligence Institute, University of South Carolina</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Aribandi</creatorName>
+      <affiliation>Vamsi</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Alambo</creatorName>
+      <affiliation>Amanuel</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Kursuncu</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-8108-9590</nameIdentifier>
+      <affiliation>Ugur</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Thirunarayan</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-7041-6963</nameIdentifier>
+      <affiliation>Krishnaprasad</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Beich</creatorName>
+      <affiliation>Jonathan</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Pathak</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-4856-410X</nameIdentifier>
+      <affiliation>Jyotishman</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Sheth</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-0021-5293</nameIdentifier>
+      <affiliation>Amit</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Characterization of Time-variant and Time-invariant Assessment of Suicidality on Reddit using C-SSRS</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2021</publicationYear>
+  <subjects>
+    <subject>Surveillance and Behavior Monitoring; Reddit; mental health; Supportive Users; Columbia-Suicide Severity Rating Scale; Medical Knowledge Bases; Time-variant Suicide Risk Assessment; Time-invariant Suicide Risk Assessment; Deep Learning; Semantic Social Computing</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2021-02-16</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/4543776</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.4543775</relatedIdentifier>
+  </relatedIdentifiers>
+  <version>Version 2 (Version 1: https://zenodo.org/record/2667859#.YCwdTR1OlQI (no post-level annotation))</version>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International</rights>
+    <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;p&gt;Suicide is the 10th leading cause of death in the U.S (1999-2019). However, predicting when someone will attempt or complete suicide has been nearly impossible. In the modern world, many individuals suffering from mental illness seek emotional support and advice on well-known and easily-accessible social media platforms such as Reddit. &amp;nbsp; While prior artificial intelligence research has demonstrated the ability to extract valuable information from social media on suicidal thoughts and behaviors, these efforts have not considered both severity and temporality of risk. The insights made possible by access to such data have enormous clinical potential - most dramatically envisioned as a trigger to employ timely and targeted interventions (i.e. voluntary and involuntary psychiatric hospitalization) to save lives. In this work, we address this knowledge gap by developing natural datasets of users experiencing suicide-related ideations, suicide-related behaviors or suicide attempt (https://zenodo.org/record/2667859#.YCwdTR1OlQI) manifested through their communication on r/SuicideWatch and associated mental health subreddits. Through a widely recognized questionnaire to assess suicide risk severity, The Columbia Suicide Severity Rating Scale, the domain experts in the study annotated 448 users with following labels: Supportive (new add to C-SSRS and specific to social media), Suicide Ideation, Suicide Behavior, Suicide Attempt. High standards in annotation were maintained with substantial inter-rater agreement of 0.76.&lt;/p&gt;</description>
+  </descriptions>
+</resource>
