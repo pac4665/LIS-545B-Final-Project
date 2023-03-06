@@ -10,36 +10,36 @@
       <affiliation>Artificial Intelligence Institute, University of South Carolina</affiliation>
     </creator>
     <creator>
-      <creatorName>Aribandi</creatorName>
-      <affiliation>Vamsi</affiliation>
+      <givenName>Aribandi</creatorName>
+      <familyName>Vamsi</affiliation>
     </creator>
     <creator>
-      <creatorName>Alambo</creatorName>
-      <affiliation>Amanuel</affiliation>
+      <givenName>Alambo</creatorName>
+      <familyName>Amanuel</affiliation>
     </creator>
     <creator>
-      <creatorName>Kursuncu</creatorName>
+      <givenName>Kursuncu</creatorName>
       <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-8108-9590</nameIdentifier>
-      <affiliation>Ugur</affiliation>
+      <familyName>Ugur</affiliation>
     </creator>
     <creator>
-      <creatorName>Thirunarayan</creatorName>
+      <givenName>Thirunarayan</creatorName>
       <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-7041-6963</nameIdentifier>
-      <affiliation>Krishnaprasad</affiliation>
+      <familyName>Krishnaprasad</affiliation>
     </creator>
     <creator>
-      <creatorName>Beich</creatorName>
-      <affiliation>Jonathan</affiliation>
+      <givenName>Beich</creatorName>
+      <familyName>Jonathan</affiliation>
     </creator>
     <creator>
-      <creatorName>Pathak</creatorName>
+      <givenName>Pathak</creatorName>
       <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-4856-410X</nameIdentifier>
-      <affiliation>Jyotishman</affiliation>
+      <familyName>Jyotishman</affiliation>
     </creator>
     <creator>
-      <creatorName>Sheth</creatorName>
+      <givenName>Sheth</creatorName>
       <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-0021-5293</nameIdentifier>
-      <affiliation>Amit</affiliation>
+      <familyName>Amit</affiliation>
     </creator>
   </creators>
   <titles>
@@ -48,7 +48,16 @@
   <publisher>Zenodo</publisher>
   <publicationYear>2021</publicationYear>
   <subjects>
-    <subject>Surveillance and Behavior Monitoring; Reddit; mental health; Supportive Users; Columbia-Suicide Severity Rating Scale; Medical Knowledge Bases; Time-variant Suicide Risk Assessment; Time-invariant Suicide Risk Assessment; Deep Learning; Semantic Social Computing</subject>
+    <subject> Surveillance and Behavior Monitoring; 
+    <subject> Reddit; 
+    <subject> Mental health; 
+    <subject> Supportive Users; 
+    <subject> Columbia-Suicide Severity Rating Scale;
+    <subject> Medical Knowledge Bases; 
+    <subject> Time-variant Suicide Risk Assessment; 
+    <subject> Time-invariant Suicide Risk Assessment; 
+    <subject> Deep Learning; 
+    <subject> Semantic Social Computing</subject>
   </subjects>
   <dates>
     <date dateType="Issued">2021-02-16</date>
@@ -67,6 +76,6 @@
     <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
   </rightsList>
   <descriptions>
-    <description descriptionType="Abstract">&lt;p&gt;Suicide is the 10th leading cause of death in the U.S (1999-2019). However, predicting when someone will attempt or complete suicide has been nearly impossible. In the modern world, many individuals suffering from mental illness seek emotional support and advice on well-known and easily-accessible social media platforms such as Reddit. &amp;nbsp; While prior artificial intelligence research has demonstrated the ability to extract valuable information from social media on suicidal thoughts and behaviors, these efforts have not considered both severity and temporality of risk. The insights made possible by access to such data have enormous clinical potential - most dramatically envisioned as a trigger to employ timely and targeted interventions (i.e. voluntary and involuntary psychiatric hospitalization) to save lives. In this work, we address this knowledge gap by developing natural datasets of users experiencing suicide-related ideations, suicide-related behaviors or suicide attempt (https://zenodo.org/record/2667859#.YCwdTR1OlQI) manifested through their communication on r/SuicideWatch and associated mental health subreddits. Through a widely recognized questionnaire to assess suicide risk severity, The Columbia Suicide Severity Rating Scale, the domain experts in the study annotated 448 users with following labels: Supportive (new add to C-SSRS and specific to social media), Suicide Ideation, Suicide Behavior, Suicide Attempt. High standards in annotation were maintained with substantial inter-rater agreement of 0.76.&lt;/p&gt;</description>
+    <description descriptionType="Abstract">Suicide is the 10th leading cause of death in the U.S (1999-2019). However, predicting when someone will attempt or complete suicide has been nearly impossible. In the modern world, many individuals suffering from mental illness seek emotional support and advice on well-known and easily-accessible social media platforms such as Reddit. &amp;nbsp; While prior artificial intelligence research has demonstrated the ability to extract valuable information from social media on suicidal thoughts and behaviors, these efforts have not considered both severity and temporality of risk. The insights made possible by access to such data have enormous clinical potential - most dramatically envisioned as a trigger to employ timely and targeted interventions (i.e. voluntary and involuntary psychiatric hospitalization) to save lives. In this work, we address this knowledge gap by developing natural datasets of users experiencing suicide-related ideations, suicide-related behaviors or suicide attempt (https://zenodo.org/record/2667859#.YCwdTR1OlQI) manifested through their communication on r/SuicideWatch and associated mental health subreddits. Through a widely recognized questionnaire to assess suicide risk severity, The Columbia Suicide Severity Rating Scale, the domain experts in the study annotated 448 users with following labels: Supportive (new add to C-SSRS and specific to social media), Suicide Ideation, Suicide Behavior, Suicide Attempt. High standards in annotation were maintained with substantial inter-rater agreement of 0.76.&lt;/p&gt;</description>
   </descriptions>
 </resource>
