@@ -1,0 +1,7 @@
+USER - identifies Reddit User/Creator of post
+POST - depicts text post submitted to the Reddit thread by Reddit User/Creator 
+LABEL
+	- Ideation = text post displays signs of suicidal ideation or consideration
+	- Indicator = text post displays explicit signs of plan for suicide/self-harm
+	- Supportive = text post displays support or encouragement for those experiencing suicidal ideation and/or self-harm
+	- Uninformative = text post does not display any content relating to suicidality or self-harm
