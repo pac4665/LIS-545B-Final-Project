@@ -13,4 +13,6 @@ The dataset "Suicidality on Reddit" is composed of acquired anonymous Reddit pos
 
 Metadata - Uses DataCite schema
 
+Definitions - Definitions for column headings of spreadsheets found on data files
+
 1 .docx file - Word document of Final Term Project Report; includes Data and Metadata Profile, Repository Profile, and additional information regarding data citation and considerations relating to preservation, licensing, and human subjects. 
